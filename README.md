@@ -1,7 +1,5 @@
 # 📄 CDV03: Resume Project – Lungelo Mavundla
-
-This is a professionally designed resume created in **Microsoft Word** as part of the CDV03 course submission. The document showcases the skills, experience, and qualifications of **Lungelo Mavundla**, laid out in a clear, structured, and visually appealing format based on a provided design brief.
-
+https://docs.google.com/document/d/1F-oOoJw2OzL_7Kh6nVKFA6h7o0PfN15BjD0Jw_XFnjU/edit?usp=sharing
 ---
 
 ## 🎯 Project Purpose
